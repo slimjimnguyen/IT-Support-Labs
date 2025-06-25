@@ -11,7 +11,6 @@ This project documents hands-on labs simulating common IT support scenarios in a
 | 03    | Internet Not Working            |     |
 | 04    | Software Installation           |     |
 | 05    | Shared Folder Mapping           |     |
-| 06    | Create New User (Bonus)         |     |
 
 ## Tools & Skills Practiced
 - Windows 10 Troubleshooting
