@@ -10,8 +10,8 @@ This project documents hands-on labs simulating common IT support scenarios in a
 |-------|------------------------------|--------------|
 | 00    | Virtual Machine Setup        | ✅ Completed |
 | 01    | Password Reset               | ✅ Completed |
-| 02    | Printer Troubleshooting      | 🔜 Coming Soon |
-| 03    | Internet Not Working         | ⬜ Pending   |
+| 02    | Printer Troubleshooting      | ✅ Completed |
+| 03    | Internet Not Working         | 🔜 Coming Soon |
 | 04    | Software Installation        | ⬜ Pending   |
 | 05    | Shared Folder Mapping        | ⬜ Pending   |
 
