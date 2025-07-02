@@ -12,8 +12,8 @@ This project documents hands-on labs simulating common IT support scenarios in a
 | 01    | Password Reset               | ✅ Completed |
 | 02    | Printer Troubleshooting      | ✅ Completed |
 | 03    | Internet Not Working         | ✅ Completed |
-| 04    | Software Installation        | 🔜 Coming Soon    |
-| 05    | Shared Folder Mapping        | ⬜ Pending   |
+| 04    | Software Installation        | ✅ Completed   |
+| 05    | Shared Folder Mapping        | 🔜 Coming Soon  |
 
 ---
 
