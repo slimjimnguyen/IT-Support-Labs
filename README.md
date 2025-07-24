@@ -13,7 +13,7 @@ This project documents hands-on labs simulating common IT support scenarios in a
 | 02    | Printer Troubleshooting      | ✅ Completed |
 | 03    | Internet Not Working         | ✅ Completed |
 | 04    | Software Installation        | ✅ Completed   |
-| 05    | Shared Folder Mapping        | 🔜 Coming Soon  |
+| 05    | Shared Folder Mapping        | ✅ Completed   |
 
 ---
 
@@ -28,4 +28,3 @@ This project documents hands-on labs simulating common IT support scenarios in a
 
 ---
 
-## 📁 Repository Structure
