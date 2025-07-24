@@ -1,9 +1,10 @@
 # Lab 04 – Software Installation
 
-Output: Date: July 2, 2025
-Ticket #: 005
+**Date:** July 2, 2025  
+**Ticket #:** 005 
 **Issue:** User1 requested installation of Notepad++
-**Resolution:** Switched to Admin, installed Notepad++, verified access for User1.
+**Resolution:** Switched to Admin, installed Notepad++, verified access for User1
+
 
 
 ---
